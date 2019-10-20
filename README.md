@@ -19,4 +19,4 @@ Needless to say that we take the Method 2.
 install & run
 With a correctly configured Go toolchain:
 1. go get -u github.com/springwiz/stocks
-2. go test ./...
+2. go test ./... -v
